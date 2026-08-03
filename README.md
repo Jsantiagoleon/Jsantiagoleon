@@ -2,7 +2,7 @@
 
 # ¡Hola, soy Julian Santiago León Pérez! 👋
 
-### Estudiante de Ingeniería de Sistemas | Desarrollador de Software
+### Estudiante de Ingeniería de Sistemas 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Apasionado+por+la+resoluci%C3%B3n+de+problemas;Interesado+en+gesti%C3%B3n+de+empresas+TI;Aprendiendo+algo+nuevo+cada+d%C3%ADa;Construyendo+soluciones+de+software" alt="Typing SVG" />
 
