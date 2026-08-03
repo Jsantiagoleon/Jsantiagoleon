@@ -68,7 +68,7 @@ Soy estudiante de **Ingeniería de Sistemas**, actualmente enfocado en el desarr
 <a href="https://www.linkedin.com/in/TU_USUARIO/">
   <img src="https://img.shields.io/badge/LinkedIn-2F80ED?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/TU_USUARIO">
+<a href="https://www.linkedin.com/in/julian-santiago-leon-perez-1aba622a1/">
   <img src="https://img.shields.io/badge/GitHub-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
