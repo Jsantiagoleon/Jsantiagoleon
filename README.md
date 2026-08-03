@@ -41,7 +41,7 @@ Soy estudiante de **Ingeniería de Sistemas**, actualmente enfocado en el desarr
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0d1117&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" />
 </div>
 
-> ⚠️ Reemplaza `TU_USUARIO` en los enlaces anteriores por tu nombre de usuario real de GitHub para que las estadísticas se muestren correctamente.
+
 
 <br>
 
