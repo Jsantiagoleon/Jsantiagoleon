@@ -30,16 +30,6 @@ Soy estudiante de **Ingeniería de Sistemas**, actualmente enfocado en el desarr
 
 <br>
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&title_color=2F80ED&icon_color=2F80ED&text_color=c9d1d9&bg_color=0d1117&border_color=2F80ED" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&title_color=2F80ED&text_color=c9d1d9&bg_color=0d1117&border_color=2F80ED" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0d1117&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" />
-</div>
 
 
 
